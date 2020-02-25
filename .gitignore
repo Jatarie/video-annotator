@@ -1,0 +1,7 @@
+build
+avcodec
+.vscode
+imgui
+src/glfw3.h
+src/glfw3dll.lib
+src/glfw3native.h
